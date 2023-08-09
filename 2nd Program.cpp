@@ -8,7 +8,7 @@ int main()
 	int V4;
 	int V5;
 	
-	int, result;
+	int result;
 	
 	V1=10;
 	V2=20;
@@ -17,8 +17,8 @@ int main()
 	V5=50;
 	
 	V1=V3;
-	V2=V4:
+	V2=V4;
 	V3=V5;
 	result=V1+V2-V3*V4/V5;
-	cout<<"The Result is "<result;
+	cout<<"The Result is "<<result;
 }
